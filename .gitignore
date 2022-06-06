@@ -8,4 +8,7 @@ tmp/todo.txt
 tmp/*
 *.txt
 
+<<<<<<< HEAD
+>>>>>>> edaa5a0 (Exclusion des fichiers txt)
+=======
 >>>>>>> edaa5a0 (Exclusion des fichiers txt)
