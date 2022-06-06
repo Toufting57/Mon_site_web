@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 tmp/*
 *.txt
 
 
+=======
+tmp/todo.txt
+tmp/*
+*.txt
+
+>>>>>>> edaa5a0 (Exclusion des fichiers txt)
