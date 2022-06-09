@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Formation GIT</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+		<link rel="stylesheet" href="style.css">
+
+	</head>
+	
+
+	<body>
+
+		<!-- TITRE -->
+		<div id="top-banner">
+			Bienvenue dans cette formation GIT !
+		</div>
+		<!--description-->
+		<div>
+			<h1>Ma description</h1>
+			<p>
+				Bonjour, je me presente : je suis un etre qui cherche à savoir le pourquoi du comment! 
+			</p>
+		</div>
+		<!--recompense-->
+		<div>
+			<h1>Ma récompense</h1>
+			<p>
+				<img src="medal_bronze.png">
+			</p>
+		</div>
+		</div>
+		<!--Mon Gist-->
+		<div>
+			<h1>Mon GIST</h1>
+			<p>
+				Vous pouvez acceder à mon GIST en cliquant sur lien ci dessous.
+				
+			</p>
+			<script src="https://gist.github.com/Toufting57/5fa29e2456b1eee135566442326ce4ae.js"></script>
+		</div>
+		<!--commandes git-->
+		<div>
+			<h1> Mes commandes git</h1>
+			<p>git pull</p>
+			<p>git push</p>
+		</div>
+		
+		
+	</body>
+</html>
