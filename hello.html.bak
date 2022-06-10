@@ -27,12 +27,7 @@
 		<div>
 			<h1>Ma récompense</h1>
 			<p>
-<<<<<<< HEAD
-				<img src="medal_bronze.png">
-=======
-				<img src="D:\DATA TOUFIK\Ressources\Versionning\cours_git\clone_mon_site_web\medal_gold.png" />
 				En construction 
->>>>>>> c1f0f0c (Add medal gold)
 			</p>
 		</div>
 		</div>
@@ -43,19 +38,7 @@
 				Vous pouvez acceder à mon GIST en cliquant sur lien ci dessous.
 				
 			</p>
-			<p>  git init</p>
 			<script src="https://gist.github.com/Toufting57/5fa29e2456b1eee135566442326ce4ae.js"></script>
-		</div>
-		<!--commandes git-->
-		<div>
-			<h1> Mes commandes git</h1>
-			<p>git pull</p>
-			<p>git push</p>
-			<p>git log</p>
-			<p>git pull</p>
-			<p>git push</p>
-			<p>git log</p>
-			
 		</div>
 		
 		
