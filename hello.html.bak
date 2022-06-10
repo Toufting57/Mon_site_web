@@ -27,7 +27,11 @@
 		<div>
 			<h1>Ma récompense</h1>
 			<p>
+<<<<<<< HEAD
 				En construction 
+=======
+				<img src="medal_bronze.png"><img src="medal_bronze.png"><img src="medal_gold.png"><img src="medal_gold.png">
+>>>>>>> b0ae66b (Ajout de la medaille d'or)
 			</p>
 		</div>
 		</div>
